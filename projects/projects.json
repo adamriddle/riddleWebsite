@@ -1,0 +1,20 @@
+{
+  "projects":
+  [
+    {
+      "name":"MIA",
+      "next":"Night Light",
+      "previous":"The Poster Series"
+    },
+    {
+      "name":"Night Light",
+      "next":"The Poster Series",
+      "previous":"MIA"
+    },
+    {
+      "name":"The Poster Series",
+      "next":"MIA",
+      "previous":"Night Light"
+    }
+  ]
+}
